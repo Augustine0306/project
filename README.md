@@ -64,9 +64,9 @@ cv2.waitKey(0)
 cv2.destroyAllWindows()
 ```
 #### OUTPUT:
-![image](https://github.com/Augustine0306/project/assets/119404460/44bf4bc3-131f-4b24-b901-b279c298a95f)
+![output1](https://github.com/Augustine0306/project/assets/119404460/25565af3-9730-457b-b98e-1ea8aa369d94)
 
-![image](https://github.com/Augustine0306/project/assets/119404460/d5e51acd-da21-413e-8232-5b0842fb2a6d)
+![output2](https://github.com/Augustine0306/project/assets/119404460/4fe105b1-cb20-4235-86f9-c72614076f92)
 
 ### II)Perform handwritting detection in an image
 
@@ -98,7 +98,7 @@ image_path = 'hand.jpg'
 detect_handwriting(image_path)
 ```
 #### OUTPUT:
-![image](https://github.com/Augustine0306/project/assets/119404460/05426960-716a-4fbb-9636-df95fc10f503)
+![output3](https://github.com/Augustine0306/project/assets/119404460/0a97fc30-ee91-42dc-bab6-70afa4dd2894)
 
 ### III)Perform object detection with label in an image
 
